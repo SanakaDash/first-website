@@ -5,7 +5,7 @@ execute:
 ---
 
 ```{r}
-#| messaeg: false
+#| message: false
 #| label: setup
 
 library(tidyverse)

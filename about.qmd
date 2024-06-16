@@ -2,4 +2,7 @@
 title: "About"
 ---
 
-Sanaka Dash
+## About Me
+My name is **Sanaka Dash**, and I attend *Wilton High School*.
+
+[Kane's Free Data Science Bootcamp(https://bootcamp.davidkane.info)]
